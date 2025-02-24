@@ -1,0 +1,21 @@
+sentence-transformers==3.3.1
+pymilvus==2.5.3
+streamlit==1.38.0
+pandas==2.2.2
+playwright==1.45.0
+pytest-playwright==0.5.1
+regex==2024.11.6
+
+Hi,
+ 
+It's great connecting with you.
+ 
+I hope this message finds you well. My name is Haaris Seraj, a recent Computer Science and Engineering graduate. I am reaching out to seek your assistance regarding any entry-level openings or referrals.
+ 
+I am eager to leverage my technical skills and project experience in a professional setting and am open to any guidance or referrals you could provide.
+ 
+Thank you for considering my request. I look forward to the possibility of discussing any suitable opportunities with you.
+ 
+You will find more about my skillset in the resume attached to this mail. 
+ 
+Thank you for your time and consideration. Looking forward to hearing back soon.
