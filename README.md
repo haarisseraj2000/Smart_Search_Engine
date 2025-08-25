@@ -1,4 +1,5 @@
 ---
+## Built a GenAI-powered search tool using Llama3 and vector embeddings to help users discover relevant free courses on Analytics Vidhya through natural language queries.
 title: Analytics Vidhya Assessment
 emoji: 🏆
 colorFrom: red
